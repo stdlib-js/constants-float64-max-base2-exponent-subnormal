@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-09-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f9651e6`](https://github.com/stdlib-js/stdlib/commit/f9651e6411b4ebd3c95dcc6b46c02e6d5be009fa) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`6847363`](https://github.com/stdlib-js/stdlib/commit/68473633e18bf94b785faa26992986552f6ead2c) - **chore:** update test messages in `constants/float64` [(#6747)](https://github.com/stdlib-js/stdlib/pull/6747) _(by Harsh, hrshya)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Harsh
+-   Philipp Burckhardt
 -   hrshya
 
 </section>
